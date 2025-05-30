@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基础颜色 -->
+    <color name="purple_500">#6200EE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFD600</color>
+
+    <!-- 推荐添加的备用颜色 -->
+    <color name="black">#FF000000</color>
+    <color name="tab_unselected">#80FFFFFF</color> <!-- 半透明白色 -->
+</resources>
